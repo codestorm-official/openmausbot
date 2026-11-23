@@ -1,5 +1,7 @@
 # Deploy and Host OpenMausBot on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/openmausbot-2?referralCode=indah&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 OpenMausBot is an open-source chat app where every contact is an AI agent. Each bot runs a real Claude Code or Codex agent with its own model, memory, tools, browser and connected apps. This template runs the official server always-on behind an HTTPS edge, with every chat, login and workspace stored on a Railway volume.
 
 ## About Hosting OpenMausBot
