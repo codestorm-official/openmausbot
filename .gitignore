@@ -1,0 +1,5 @@
+.env
+.env.*
+!.env.example
+docs/RAILWAY_SETUP.md
+.DS_Store
